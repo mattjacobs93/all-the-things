@@ -49,16 +49,16 @@ const App = () => {
     },
   ])
 
-  const [bensThings, setBensThings] = useState([
+  const [anthonysThings, setAnthonysThings] = useState([
     {
-      name: 'banana',
+      name: 'Orange',
       image:
-        'https://images.unsplash.com/photo-1587132137056-bfbf0166836e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
+        'https://i.imgur.com/LhGPYpi.mp4',
       attributes: [
         'potassium-rich',
-        'yellow when good',
+        'orange when good',
         'not a taco',
-        'ring ring ring ring ring ring ring',
+        'orange orange',
       ],
     },
     {
